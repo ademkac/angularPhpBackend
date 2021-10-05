@@ -1,2 +1,2 @@
 # angularPhpBackend
-Za Demu
+Registracija korisnika i login - PHP backend
